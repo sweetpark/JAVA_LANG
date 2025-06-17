@@ -1,4 +1,4 @@
-package lab.java_project.BASIC.STRING문자열;
+package lab.java_project.중급1.STRING문자열;
 
 import java.util.Arrays;
 

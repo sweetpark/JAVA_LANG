@@ -1,4 +1,4 @@
-package lab.java_project.BASIC.불변객체.참조형;
+package lab.java_project.중급1.불변객체.참조형;
 
 public class _2_불변클래스 {
     /* 값변경을 통한 공유객체로서 위험성이 있으므로,

@@ -1,4 +1,4 @@
-package lab.java_project.BASIC.불변객체.참조형;
+package lab.java_project.중급1.불변객체.참조형;
 
 public class _1_기본형VS참조형 {
     /**

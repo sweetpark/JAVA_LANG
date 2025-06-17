@@ -1,4 +1,4 @@
-package lab.java_project.BASIC.OBJECT클래스.Equals만들기;
+package lab.java_project.중급1.OBJECT클래스.Equals만들기;
 
 public class _정리 {
     /***
